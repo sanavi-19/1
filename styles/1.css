@@ -1,0 +1,93 @@
+.stretch{
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 7px 16px 7px 16px;
+  cursor: pointer;
+  transition:padding 1s;
+  margin-right: 10px;
+}
+
+.stretch:hover{
+  padding: 14px 32px 14px 32px;
+}
+
+.stretch:active{
+  padding: 21px 48px 21px 48px ;
+}
+
+.shadow{
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 7px 16px 7px 16px;
+  cursor: pointer;
+  transition: 0.15s;
+  margin-right: 10px;
+  vertical-align: top;
+  box-shadow: 1px 1px 5px black;
+  margin-right: 10px;
+}
+
+.shadow:active{
+  box-shadow: 0px 0px 1px white;
+}
+
+.one{
+  background-color: green;
+  color: white;
+  padding: 7px 16px 7px 16px;
+  border: none;
+  margin: 0px 10px 0px 0px;
+  transition: 1s;
+}
+
+.one:hover{
+  padding: 7px 24px 7px 24px;
+}
+
+.two{
+  background-color: green;
+  color: white;
+  padding: 7px 16px 7px 16px;
+  border: none;
+  margin: 0px 10px 0px 0px;
+  transition: 1s;
+}
+
+.two:hover{
+  padding: 7px 24px 7px 24px;
+}
+
+.three{
+  background-color: green;
+  color: white;
+  padding: 7px 16px 7px 16px;
+  border: none;
+  margin: 0px 10px 0px 0px;
+  transition: 1s;
+}
+
+.three:hover{
+  padding: 7px 24px 7px 24px;
+}
+
+.one1{
+  margin: 0px 5px 0px 5px;
+}
+
+.two2{
+  margin: 0px 5px 0px 5px;
+}
+
+.three3{
+  margin: 0px 5px 0px 5px;
+}
+
+.four4{
+  margin: 0px 5px 0px 5px;
+}
+
+.five5{
+  margin: 0px 5px 0px 5px;
+}
